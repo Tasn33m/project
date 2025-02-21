@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bank System - README</title>
     
 </head>
 <body>
 
-    <h1>Bank System - README</h1>
+    <h1>Bank System </h1>
 
     <h2>Project Overview</h2>
     <p>
